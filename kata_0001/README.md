@@ -14,5 +14,11 @@ Output: #417AB4
 
 ## Notes
 
+#### Used languages
+* Python
+* C
+* Java
+* Rust
+
 ### Rust
 Compile and run with rustc kata_0001.rs && ./kata_0001
