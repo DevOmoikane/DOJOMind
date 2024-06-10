@@ -7,7 +7,6 @@ char* RGBToHex(int r, int g, int b) {
 }
 
 int main() {
-    // input string values from user console
     int r, g, b;
     printf("Enter the value of r, g, b: ");
     scanf("%d, %d, %d", &r, &g, &b);
